@@ -1,0 +1,45 @@
+{
+  "sessions": [
+    {
+      "id": "940f345f-056d-48fc-af04-68b226b7dfc3",
+      "tabLayout": {
+        "type": "stack",
+        "width": 100,
+        "height": 100,
+        "tabs": [
+          {
+            "id": "96a41533-72b0-41f5-9291-6c47c2753dca",
+            "relativeUrl": "file://./tsconfig.json",
+            "additionalData": null
+          },
+          {
+            "id": "eca303c7-54f1-459e-bc5e-66ada80ad2a8",
+            "relativeUrl": "file://./src/pages/home/home.ts",
+            "additionalData": null
+          },
+          {
+            "id": "a2e8c491-6e7b-4db9-9a9d-d9b7a30f46fa",
+            "relativeUrl": "file://./src/app/app.module.ts",
+            "additionalData": null
+          },
+          {
+            "id": "93a21bf5-5a9d-4768-8661-e96e5364dbb1",
+            "relativeUrl": "file://./src/pages/new-place/new-place.ts",
+            "additionalData": null
+          },
+          {
+            "id": "a6bed803-724f-48bd-a65a-bc9dc958f759",
+            "relativeUrl": "file://./src/pages/home/home.html",
+            "additionalData": null
+          }
+        ],
+        "subItems": [],
+        "activeItemIndex": 0
+      },
+      "lastUsed": 1502498687433,
+      "selectedTabId": "a2e8c491-6e7b-4db9-9a9d-d9b7a30f46fa",
+      "fileTreeExpanded": true
+    }
+  ],
+  "relativePathToTsconfig": "./tsconfig.json"
+}
